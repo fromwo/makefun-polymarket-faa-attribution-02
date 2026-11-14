@@ -1,8 +1,8 @@
 # makefun-polymarket-faa-attribution-02
 
 [![make.fun · polymarket-faa-attribution-02](https://make.fun/badge/polymarket-faa-attribution-02.svg)](https://make.fun/bounty/polymarket-faa-attribution-02?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-02)
-[![rank](https://make.fun/badge/polymarket-faa-attribution-02/chilperbf24/makefun-polymarket-faa-attribution-02/rank.svg)](https://make.fun/bounty/polymarket-faa-attribution-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-02)
-[![reward](https://make.fun/badge/polymarket-faa-attribution-02/chilperbf24/makefun-polymarket-faa-attribution-02/reward.svg)](https://make.fun/bounty/polymarket-faa-attribution-02?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-02)
+[![rank](https://make.fun/badge/polymarket-faa-attribution-02/fromwo/makefun-polymarket-faa-attribution-02/rank.svg)](https://make.fun/bounty/polymarket-faa-attribution-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-02)
+[![reward](https://make.fun/badge/polymarket-faa-attribution-02/fromwo/makefun-polymarket-faa-attribution-02/reward.svg)](https://make.fun/bounty/polymarket-faa-attribution-02?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-02)
 
 Adaptive persistence forecast for Polymarket's FAA outage attribution prices: per-market winsorized volatility, sub-sqrt band growth, weak mean reversion. Practice loss 0.2705 vs house baseline 0.3636.
 
